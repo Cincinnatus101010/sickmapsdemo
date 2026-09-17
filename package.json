@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "maplibre-gl": "^4.7.1",
-    "sickmaps": "github:Cincinnatus101010/sickmaps#v0.1.0"
+    "@iantroisi/sickmaps": "^0.1.0"
   },
   "devDependencies": {
     "typescript": "^5.9.2",

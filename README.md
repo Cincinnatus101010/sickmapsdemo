@@ -24,7 +24,7 @@ await mountSickmapsPreview({ root: "#app", theme: "minecraft" });
 ## Related
 
 - Package: https://github.com/Cincinnatus101010/sickmaps
-- Install: `npm install sickmaps maplibre-gl`
+- Install: `npm install @iantroisi/sickmaps maplibre-gl`
 
 ## License
 

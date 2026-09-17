@@ -1,6 +1,6 @@
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
-import "sickmaps/css";
+import "@iantroisi/sickmaps/css";
 import {
   THEME_DEFAULTS,
   decorateMapContainer,
@@ -9,7 +9,7 @@ import {
   loadGameMapStyle,
   undecorateMapContainer,
   type GameMapTheme,
-} from "sickmaps";
+} from "@iantroisi/sickmaps";
 
 export type SickmapsPreviewOptions = {
   /** Element that holds map + chrome, or selector string */
